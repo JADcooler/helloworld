@@ -1,6 +1,1 @@
-# helloworld
-???
-asr
-asd
-asg
-ash
+goddamn hello
